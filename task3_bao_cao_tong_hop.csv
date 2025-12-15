@@ -24,3 +24,17 @@ UV121,Tran Thi B,UV121,6.0,6.0,6.0,1
 UV122,Hoang Van E,UV122,7.33,7.0,8.0,3
 UV123,Tran Thi B,UV123,6.33,5.0,9.0,3
 UV124,Tran Thi B,UV124,7.67,5.0,9.0,3
+#Kết luận:
+Thống kê phân bố ứng viên theo vị trí (Position Distribution): Dữ liệu cho thấy sự tập trung vào hai vị trí tuyển dụng chính:
+Data Analyst: Chiếm số lượng lớn nhất với 14 ứng viên.
+Python Developer: Có 11 ứng viên.
+Nhận xét: Nguồn ứng viên cho vị trí Phân tích dữ liệu có tỷ ệ cao hơn so với vị trí Lập trình viên Python trong đợt tuyển dụng này.
+Phân tích điểm số phỏng vấn (Interview Score Analysis): Điểm trung bình của các ứng viên biến động qua từng vòng thi:
+Vòng 1: ~7.42 điểm.
+Vòng 2: ~6.57 điểm.
+Vòng 3: ~7.32 điểm.
+Nhận xét: Vòng 2 có điểm trung bình thấp nhất, cho thấy đây là vòng thi khó khăn nhất hoặc có tiêu chuẩn đánh giá khắt khe nhất trong quy trình. Ngược lại, ứng viên thường đạt kết quả tốt hơn ở Vòng 1 và Vòng 3.
+Đánh giá chất lượng và sự đầy đủ của dữ liệu:
+Ứng viên thiếu điểm: Hệ thống phát hiện một số lượng đáng kể ứng viên chưa có dữ liệu điểm số đầy đủ (bao gồm các mã như UV111, UV117, v.v.). Điều này có thể do ứng viên bỏ thi hoặc dữ liệu nhập liệu bị thiếu sót, cần được rà soát lại.
+Ứng viên có kinh nghiệm nhưng điểm thấp:
+Với tiêu chí lên mức "Điểm TB < 7.5" (Mức trung bình khá), có khoảng 9 ứng viên (Ví dụ: UV108 - 4 năm kinh nghiệm nhưng chỉ đạt 6.0 điểm). Đây là nhóm cần cân nhắc kỹ về sự phù hợp giữa thâm niên và năng lực thực tế.
